@@ -12,7 +12,6 @@
 - **Edit Items:** Update item details to reflect changes in quantity or expiration dates.
 - **Delete Items:** Remove items that are no longer needed from your pantry inventory.
 
-> **Note:** The app currently does not support recipe suggestions or search functionality.
 
 ## Tech Stack
 
